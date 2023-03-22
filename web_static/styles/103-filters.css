@@ -98,4 +98,4 @@ button {
 
 button:hover {
 	opacity: 90%;
-}
+}EATE DATABASE IF NOT EXISTS hbnb_test_db;
