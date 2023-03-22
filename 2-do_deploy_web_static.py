@@ -1,4 +1,4 @@
-script to distribute an archive to web servers
+cript to distribute an archive to web servers
 ----NEEDS TO REVISIT SCRIPT
 '''
 
