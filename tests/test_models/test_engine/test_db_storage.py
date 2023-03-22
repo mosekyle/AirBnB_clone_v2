@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Created Wed 22 March 2023
-@author: Moses
-         Kelvin
+Created on Wed March 22 2023
+@author: moses
 """
 import sys
 import unittest
