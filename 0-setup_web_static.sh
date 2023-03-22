@@ -44,4 +44,4 @@ echo
 
 #--restart NGINX
 sudo service nginx restart
-echo -e "\e[1;32m restart NGINX\e[0m"
+cho -e "\e[1;32m restart NGINX\e[0m"
