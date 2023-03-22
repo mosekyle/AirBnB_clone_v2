@@ -87,4 +87,4 @@ def do_clean(number=0):
         " '/data/web_static/releases/web_static_.*'",
         " | sort -r | tr '\\n' ' ' | cut -d ' ' -f{}-)".format(start + 1)
     ]
-    run(''.join(cmd_parts))
+    un(''.join(cmd_parts))
